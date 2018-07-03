@@ -1,0 +1,24 @@
+{
+  "name": "mernproj",
+  "version": "1.0.0",
+  "description": "Project using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristiancharb/MERNProj.git"
+  },
+  "author": "Kristian Charbonneau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristiancharb/MERNProj/issues"
+  },
+  "homepage": "https://github.com/kristiancharb/MERNProj#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
